@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&text=Siyeon's&#160;Github&section=header)
+
 <!--
 **kimsiyeon0223/kimsiyeon0223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
