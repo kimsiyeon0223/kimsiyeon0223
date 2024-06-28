@@ -1,6 +1,9 @@
- 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/kimsiyeon0223?pet-id=1" width="1000" height="120"/>
+</a>
 <!--
 **kimsiyeon0223/kimsiyeon0223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
   
