@@ -5,7 +5,9 @@
     width="500"
     height="120"
   />
-</a>
+</a
+
+velog : <a href="[https://github.com/devxb/gitanimals](https://velog.io/@kimsiyeon0223/posts)" />
   
 <!--
 **kimsiyeon0223/kimsiyeon0223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
