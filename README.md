@@ -1,27 +1,7 @@
-<!--
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/kimsiyeon0223?pet-id=594329819473018046"
-    width="500"
-    height="120"
-  />
-</a
--->
-
-<!--
-**kimsiyeon0223/kimsiyeon0223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요! 주니어 프론트엔드 개발자 김시연입니다!!
+<br />
 
 
-Here are some ideas to get you started:
-  
+저는 배움에 대한 열정이 강하며, 스스로 성장의 즐거움을 발견하고 이를 동력으로 삼습니다. <br />
+끊임없는 질문과 철저한 정리를 통해 이해를 심화시키고, 새로운 지식을 탐구하며 폭넓고 깊이 있는 성장을 지속적으로 추구합니다.
 
-- 🔭 I’m currently working on ...
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
